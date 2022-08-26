@@ -1,2 +1,2 @@
 import run from 'testpkg'
-run()
+run("a", {})
